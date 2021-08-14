@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ### 👋 Hello, I'm Emerson Jose!
-🌱 I’m currently learning Blockchain
+🌱 I’m currently learning Blockchain <br>
 💻 Software Engineer <br>
 🏡 Brazilian, Based in Sorocaba - SP
 
